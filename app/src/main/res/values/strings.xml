@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GankIo</string>
+
+    <string name="title_activity_spash">SpashActivity</string>
+    <string name="dummy_button">干货集中营</string>
+    <string name="dummy_content">干货集中营</string>
+    <string name="title_activity_bottom_navigation_view">BottomNavigationView</string>
+    <string name="title_home">干货</string>
+    <string name="title_dashboard">果壳</string>
+    <string name="title_notifications">设置</string>
+    <string name="title_activity_bottom_view">技术改变世界</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
